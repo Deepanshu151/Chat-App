@@ -23,8 +23,7 @@ A professional real-time messaging platform built to enable seamless communicati
 
 *Coming soon – UI includes chat window, online users, and message history*
 
-## Deployed version link 
-https://fullstack-chat-app-qtlz.onrender.com/login
+
 
 ## 💡 What I Learned
 
